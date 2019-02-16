@@ -1,0 +1,35 @@
+#########################################################
+		ENGLISH
+#########################################################
+This is a little python3 programm I quickly created to train myself to mental calculation.
+
+The script can be launched thanks to the folloing command :
+
+python3 calcul_mental.py 3 2 1
+
+-first arg : 1 for addition 2 for substraction 3 for multiplication 4 for division
+- second arg : number of digit of the first number
+- third arg : number of digits of the the second number
+
+Amelioration to come :
+
+operation alltogether
+a timeout system to finish calculs in a limited time
+
+#########################################################
+		FRENCH
+#########################################################
+Ce petit script écrit en python3 a été très rapidement créé par moi-même pour m'entrainer au calcul mental.
+
+Le script peût être lancé grâce à la commande suivante :
+
+python3 calcul_mental.py 3 2 1
+
+-1er arg : 1 pour addition 2 pour substraction 3 pour multiplication 4 pour division
+- 2nd arg : nombre de chiffres du premier nombre
+- 3ème arg : nombre de chiffres du second nombre
+
+Améliorations à venir :
+
+Ajouter un mode avec à la fois des additions soustractions etc...
+Ajouter un mode contre la montre
